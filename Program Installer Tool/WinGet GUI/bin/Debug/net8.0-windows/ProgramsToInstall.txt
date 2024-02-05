@@ -1,2 +1,0 @@
-CPUID.HWMonitor
-CPUID.CPU-Z.ROG
