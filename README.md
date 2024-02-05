@@ -6,3 +6,6 @@ The project aims to create a Windows Forms application using C# in Visual Studio
 Feel free to customize the program in Visual Studio Enterprise to simplify future OS resets. 
 
 PowerShell scripts are executed in the foreground, allowing users to monitor the installation progress closely.
+
+Required software:
+Microsoft Windows Desktop Runtime 8 or above
